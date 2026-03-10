@@ -26,17 +26,10 @@ Não atuo apenas como executor de tarefas técnicas. Participo ativamente de dec
 `Vue.js` `Nuxt.js` `React` `React Native` `Next.js`
 
 **Banco de dados**
-`PostgreSQL` `MySQL` `MongoDB` `Redis`
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `Elasticsearch`
 
 **Infraestrutura**
 `Docker` `CI/CD` `VPS` `Linux`
 
 **Integrações**
 `APIs REST` `GraphQL` `Gateways de pagamento` `n8n`
-
----
-
-## Onde me encontrar
-
-- 🌐 [carlosrodero.com](https://carlosrodero.com)
-- 📍 São José do Rio Preto, SP - Brasil
