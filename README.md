@@ -1,16 +1,42 @@
-## Hi there 👋
+# Carlos Rodero
 
-<!--
-**carlosrodero/carlosrodero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**General Product Engineer · Full Stack · +10 anos**
 
-Here are some ideas to get you started:
+Parceiro técnico de fundadores e CEOs que precisam transformar visão em produto real, com arquitetura sólida, foco em conversão e comprometimento com o longo prazo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Não atuo apenas como executor de tarefas técnicas. Participo ativamente de decisões estratégicas, definição de arquitetura e evolução contínua de plataformas digitais.
+
+---
+
+## O que construo
+
+- **Plataformas SaaS**: do zero ao escalonamento, com multi-tenancy, cobrança recorrente e integrações complexas
+- **Sistemas para E-commerce**: Magento, Shopify, WooCommerce, gateways de pagamento
+- **Aplicações Web Customizadas**: sistemas sob medida para digitalizar processos e novos modelos de negócio
+- **MVPs com base sólida**: arquitetura simples quando necessário, robusta quando exigido
+
+---
+
+## Stack
+
+**Backend**
+`PHP` `Laravel` `Node.js`
+
+**Frontend**
+`Vue.js` `Nuxt.js` `React` `React Native` `Next.js`
+
+**Banco de dados**
+`PostgreSQL` `MySQL` `MongoDB` `Redis`
+
+**Infraestrutura**
+`Docker` `CI/CD` `VPS` `Linux`
+
+**Integrações**
+`APIs REST` `GraphQL` `Gateways de pagamento` `n8n`
+
+---
+
+## Onde me encontrar
+
+- 🌐 [carlosrodero.com](https://carlosrodero.com)
+- 📍 São José do Rio Preto, SP - Brasil
